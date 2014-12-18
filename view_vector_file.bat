@@ -1,0 +1,1 @@
+C:\opencv2\opencv\build\x86\vc10\bin\opencv_createsamples -vec cascade/pos.vec -w 98 -h 134

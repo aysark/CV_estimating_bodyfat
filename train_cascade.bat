@@ -1,0 +1,3 @@
+C:\opencv2\opencv\build\x86\vc10\bin\opencv_traincascade.exe -data cascade/samples -vec cascade/pos.vec -bg cascade/neg.txt -numPos 3 -numNeg 20 -numStages 3 -w 98 -h 134 -featureType LBP -miniHitRate 0.99 -maxFalseAlarmRate 0.5
+
+C:\opencv2\opencv\build\x86\vc10\bin\opencv_traincascade.exe -data C:/opencv2/opencv/build/x86/vc10/bin/cascade/samples2 -vec C:/opencv2/opencv/build/x86/vc10/bin/cascade/pos.vec -bg C:/opencv2/opencv/build/x86/vc10/bin/cascade/neg.txt -numPos 1 -numNeg 63  -w 98 -h 134
